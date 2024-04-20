@@ -1,4 +1,4 @@
-
+make
 include $(THEOS)/makefiles/common.mk
 
 SUBPROJECTS += Tweak Prefs
